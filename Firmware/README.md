@@ -6,3 +6,5 @@ XMeter 3 pha YG889 đo 2 điểM với:
     - Đo 2 công tơ 3 pha YG889
     - Sử dụng app blynk
     - MQTT đang tạm khoá
+## Firmware v1.1
+    - Đảo chỉ số mua bán cho nhau vì hiện tại đang mua thành bán
